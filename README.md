@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning PHP, JavaScript, C++ , Go , Kubernets. 
 - 📫 How to reach me - sathminadimath@gmail.com
 - 😄 Pronouns: That's obvious... He/Him. 
-- ⚡ Fun fact: Most of my passion is for SEO Strategies and becoming an SEO Specialist (Halfway there). 
 
 <!---
 s4thm1n4/s4thm1n4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
